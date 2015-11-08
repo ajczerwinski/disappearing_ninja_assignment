@@ -1,0 +1,10 @@
+#wrapper {
+
+}
+#donatello {
+	background-image: url("donatello.jpg");
+	/*background-color: blue;*/
+	height: 600px;
+	width: 600px;
+	background-size: 100% 100%;
+}
